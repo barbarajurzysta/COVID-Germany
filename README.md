@@ -9,7 +9,10 @@ The data:
 * [Data for other countries](https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university)
 * [Containment and health index](https://github.com/OxCGRT/covid-policy-tracker)
 
-The plots folder contains all of the graphs created for the analysis (except for animated plots, which were too big to send via email).  
+The plots folder contains all of the graphs created for the analysis (except for some animated plots, which were too big).  
 The file Report.html contains all the graphs in the form of a coherent report.  
 The folder scripts contains a script to create each graph. The names of the plots coincide with the names of the scripts.  
 The file poster.pdf is a shorter, static version of the report in A0 format.
+
+### Example of an animated plot
+![gif](plots/cases_deaths.gif)
