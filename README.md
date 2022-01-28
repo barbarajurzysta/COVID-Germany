@@ -13,5 +13,3 @@ The plots folder contains all of the graphs created for the analysis (except for
 The file Report.html contains all the graphs in the form of a coherent report.  
 The folder scripts contains a script to create each graph. The names of the plots coincide with the names of the scripts.  
 The file poster.pdf is a shorter, static version of the report in A0 format.
-
-<img src="https://students.mimuw.edu.pl/~bj394093/DAV/project/map_deaths.gif">
